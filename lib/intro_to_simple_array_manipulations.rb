@@ -17,19 +17,20 @@ def using_pop(array)
 end
 
 def pop_with_args(array)
-  dog breeds = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
+  dog_breeds = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
   array.pop("Great Dane", "Golden Retriever")
   array.size
 end
 
 def using_shift(array)
- favorite cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
+ favorite_cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
  array.shift 
  array.size
 end 
 
 def shift_with_args(array)
-  
+ ice_cream_brands = ["Blue Bell Creameries", "Ben & Jerry's", "Baskin Robbins", "Braum's", "Breyer's"]
+ 
 
 
 
