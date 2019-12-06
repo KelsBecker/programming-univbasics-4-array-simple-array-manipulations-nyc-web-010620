@@ -10,6 +10,8 @@ def using_unshift(array,string)
   array.size 
 end
 
+def using_pop(array)
+
 
   
   
