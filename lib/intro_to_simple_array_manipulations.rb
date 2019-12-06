@@ -7,5 +7,9 @@ def using_unshift(array,string)
   bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
   array.unshift("Staten Island")
   array.first 
+  array.size 
+end
+
+
   
   
