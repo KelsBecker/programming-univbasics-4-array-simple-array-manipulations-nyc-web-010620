@@ -28,6 +28,9 @@ def using_shift(array)
  array.size
 end 
 
+def shift_with_args(array)
+  
+
 
 
 
